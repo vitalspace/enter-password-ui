@@ -55,7 +55,7 @@
       & main {
         display: flex;
         flex-direction: column;
-        gap: 1em;
+        gap: 1.5em;
 
         > div:nth-child(1) {
           display: flex;
